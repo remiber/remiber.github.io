@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	
+    	<title>remiber</title>
+    	
+    	<link href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    	<link href="css/style.css" rel="stylesheet">
+    	
+    	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    	<!--[if lt IE 9]>
+      	<script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script>
+      	<script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    	<![endif]-->
+	</head>
+	<body>
+		<div class="container">
+			<div class="page-header">
+				<nav>
+					<ul class="nav nav-pills pull-right">
+						<li>Accueil</li>
+						<li>Projets</li>
+						<li>Contacts</li>
+					</ul>
+				</nav>
+				<h3 class="text-muted">remiber</h3>
+			</div>
+			<div class="jumbotron">
+				<h3>remiber</h3>
+				<p>Ce site est une maquette est ne possède donc, pour le moment, aucune informations. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi delectus, qui. Sit ratione delectus quaerat veniam possimus enim tempora accusamus labore numquam, nulla earum, assumenda maxime quas doloremque eius ipsa!</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium quam voluptatem, iusto fuga vero, inventore, exercitationem cum itaque, aut aspernatur excepturi maxime similique vitae cupiditate. Sunt sed, modi natus nostrum.</p></div>
+				<div class="col-md-4"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste obcaecati numquam necessitatibus nihil minima quod optio veniam possimus perferendis eligendi, quia voluptatem itaque deserunt est officia, eos, perspiciatis soluta.</p></div>
+				<div class="col-md-4"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem eos numquam cum earum ratione, deserunt repellendus officiis hic dicta libero autem ab molestias. Possimus eveniet rem distinctio corporis, porro.</p></div>
+			</div>
+			<hr>
+			<h3 class="text-right text-muted">remiber.github.io</h3>
+		</div>
+	</body>
+</html>
