@@ -1,7 +1,9 @@
 # Site de remiber
 Ce site github pages me permet d'hébérger gratuitement mes pages web personnelles.
 
-* Un plan du site est disponible dans `index.html`.
-* Le site est disponible à l'adresse `remiber.github.io`.
+#### Pages disponibles
+[Tuto pour installer MumbleLink](https://remiber.github.io/mblink)
 
-Les projets gérés par moi et hébérgés sur mon github personnel sont placés dans d'autres repositories.
+#### Mes sites
+Je participe au site du LaplongeMod avec Laplongejunior, il est hébergé sur le github de laplonge.
+[Site du LaplongeMod](http//laplongemod.be.ma)
