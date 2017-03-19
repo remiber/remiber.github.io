@@ -4,7 +4,7 @@ Ce site github pages me permet d'hébérger gratuitement mes pages web personnel
 #### Pages disponibles
 [Tuto pour installer MumbleLink](https://remiber.github.io/mblink)
 
-[Site du serveur CraftTech](/crafttech)
+[Site du serveur CraftTech](https://remiber.github.io/crafttech)
 
 #### Mes sites
 Je participe au site du LaplongeMod avec Laplongejunior, il est hébergé sur le github de laplonge.
