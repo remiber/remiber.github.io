@@ -1,7 +1,7 @@
 ### Circuit Trappes
 # Trajet
 
-1. Départ **DIMANCHE 25 7H40**
+1. Départ **DIMANCHE 26 7H40**
 2. Récupération de Julien
 3. Arrivé au *parking de Auchan à Orléans*
 4. Récupération de Maxime
@@ -11,7 +11,9 @@
 8. Départ
 9. On dépose Julien et Maxime au *parking de Auchan à Orléans*
 10. Arrivée à Luynes
+
 ---
+
 # Disposition voiture
 
 Allée :
