@@ -18,8 +18,10 @@
 
 Allée :
 Rémi | Quentin
+---- | ----
 Julien | Elliott
 
 Après Orléans :
 Maxime | Rémi
+------ | ------
 Julien | Elliott Quentin
