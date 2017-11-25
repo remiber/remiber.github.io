@@ -1,5 +1,5 @@
-### Circuit Trappes
-# Trajet
+# Circuit Trappes
+### Trajet
 
 1. Départ **DIMANCHE 26 7H40**
 2. Récupération de Julien
@@ -14,7 +14,7 @@
 
 ---
 
-# A Prendre
+### A Prendre
 - Appareil Photo Quentin
 - Valises Julien
 - GoPro Elliott
