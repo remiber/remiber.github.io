@@ -14,14 +14,8 @@
 
 ---
 
-# Disposition voiture
-
-Allée :
-Rémi | Quentin
----- | ----
-Julien | Elliott
-
-Après Orléans :
-Maxime | Rémi
------- | ------
-Julien | Elliott Quentin
+# A Prendre
+- Appareil Photo Quentin
+- Valises Julien
+- GoPro Elliott
+- Permis, papiers Rémi
